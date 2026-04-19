@@ -1,4 +1,7 @@
-# Placement Management System
+# Placement_cell
+>>>>>>> 78f740b11e751cf0a39c76680298a8e516eb1b87
+=======
+# Placement Management System (Placement_cell)
 
 A full-stack web application for managing student placements with separate dashboards for Students and Coordinators.
 
@@ -213,3 +216,6 @@ The application will open at http://localhost:3000
 ## 📄 License
 
 This project is for educational purposes.
+=======
+# Placement_cell
+>>>>>>> 78f740b11e751cf0a39c76680298a8e516eb1b87
